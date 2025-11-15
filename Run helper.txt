@@ -2,3 +2,28 @@ npm create vite@latest
 cd client
 npm install
 npm run dev
+
+
+support of tailwind css for the project
+web search -->  vite + tailwind
+npm install tailwindcss @tailwindcss/vite
+and next  go steps with doc
+
+next install other requirememnt packages
+npm install react-router-dom react-hot-toast
+
+Add google fonts
+add @import link in index.css file
+and add font and theme style in index.css
+
+set up routes in main.jsx
+
+set up context file - use for global state management
+contetx folder -> AppContext.jsx
+use createContext hook
+AppContextProvider
+
+main.jsx AppContextProvider
+
+designing components using  -->  prebuiltui.com
+
